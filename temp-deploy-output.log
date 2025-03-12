@@ -1,0 +1,200 @@
+[2025-03-11T04:42:42.553Z] Iniciando proceso de despliegue
+(node:53889) Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+(Use `node --trace-warnings ...` to show where the warning was created)
+/home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/scripts/webhook-deploy.ts:1
+import { exec } from 'child_process';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1274:20)
+    at Module._compile (node:internal/modules/cjs/loader:1320:27)
+    at Module.m._compile (/home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Object.require.extensions.<computed> [as .ts] (/home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at phase4 (/home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/node_modules/ts-node/src/bin.ts:649:14)
+[2025-03-11T04:46:11.872Z] Iniciando proceso de despliegue
+🚀 Iniciando proceso de despliegue
+🔄 Iniciando regeneración de páginas estáticas
+🔍 Se regenerarán 3 páginas estáticas
+🔄 Regenerando página: /
+💬 Llamando al endpoint de revalidación: http://localhost:3000/api/revalidate?path=%2F&secret=cdb3534beee5c71a1308223b91af25c4d68d750b21bcb99fd7838b78226f9204
+✅ Página regenerada correctamente: /
+🔄 Regenerando página: /news
+💬 Llamando al endpoint de revalidación: http://localhost:3000/api/revalidate?path=%2Fnews&secret=cdb3534beee5c71a1308223b91af25c4d68d750b21bcb99fd7838b78226f9204
+✅ Página regenerada correctamente: /news
+🔄 Regenerando página: /news/articulo-de-prueba
+💬 Llamando al endpoint de revalidación: http://localhost:3000/api/revalidate?path=%2Fnews%2Farticulo-de-prueba&secret=cdb3534beee5c71a1308223b91af25c4d68d750b21bcb99fd7838b78226f9204
+✅ Página regenerada correctamente: /news/articulo-de-prueba
+✅ Proceso de regeneración de páginas completado
+✅ Proceso de despliegue completado con éxito
+[2025-03-11T04:57:04.546Z] Iniciando proceso de despliegue
+(node:56243) Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+(Use `node --trace-warnings ...` to show where the warning was created)
+/home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/scripts/webhook-deploy.js:7
+import { exec } from 'child_process';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1274:20)
+    at Module._compile (node:internal/modules/cjs/loader:1320:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+[2025-03-11T05:18:56.326Z] Iniciando proceso de despliegue
+(node:60042) Warning: To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+(Use `node --trace-warnings ...` to show where the warning was created)
+/home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/scripts/webhook-deploy.js:7
+import { exec } from 'child_process';
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1274:20)
+    at Module._compile (node:internal/modules/cjs/loader:1320:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1414:10)
+    at Module.load (node:internal/modules/cjs/loader:1197:32)
+    at Module._load (node:internal/modules/cjs/loader:1013:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v18.19.1
+[2025-03-11T05:20:19.688Z] Iniciando proceso de despliegue
+🚀 Iniciando proceso de despliegue
+🔄 Iniciando regeneración de páginas estáticas
+🔍 Se regenerarán 3 páginas estáticas
+🔄 Regenerando página: /
+💬 Llamando al endpoint de revalidación: http://localhost:3000/api/revalidate?path=%2F&secret=cdb3534beee5c71a1308223b91af25c4d68d750b21bcb99fd7838b78226f9204
+✅ Página regenerada correctamente: /
+🔄 Regenerando página: /news
+💬 Llamando al endpoint de revalidación: http://localhost:3000/api/revalidate?path=%2Fnews&secret=cdb3534beee5c71a1308223b91af25c4d68d750b21bcb99fd7838b78226f9204
+✅ Página regenerada correctamente: /news
+🔄 Regenerando página: /news/articulo-de-prueba
+💬 Llamando al endpoint de revalidación: http://localhost:3000/api/revalidate?path=%2Fnews%2Farticulo-de-prueba&secret=cdb3534beee5c71a1308223b91af25c4d68d750b21bcb99fd7838b78226f9204
+✅ Página regenerada correctamente: /news/articulo-de-prueba
+✅ Proceso de regeneración de páginas completado
+🔨 Iniciando construcción de archivos estáticos...
+🚀 Iniciando: Construcción de la aplicación
+❌ Error en Construcción de la aplicación: Command failed: npm run build
+ ⚠ You are using a non-standard "NODE_ENV" value in your environment. This creates inconsistencies in the project and is strongly advised against. Read more: https://nextjs.org/docs/messages/non-standard-node-env
+
+Failed to compile.
+
+./app/api/webhook/route.ts
+112:15  Error: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+
+./app/lib/api/webhook.ts
+18:13  Error: 'event' is assigned a value but never used.  @typescript-eslint/no-unused-vars
+
+info  - Need to disable some ESLint rules? Learn more here: https://nextjs.org/docs/app/api-reference/config/eslint#disabling-rules
+
+📝 Salida: 
+> frontend-demo@0.1.0 build
+> next build
+
+   ▲ Next.js 15.2.1
+   - Environments: .env
+   - Experiments (use with caution):
+     ✓ typedRoutes
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully
+   Linting and checking validity of types ...
+
+⚠️ Error detallado:  ⚠ You are using a non-standard "NODE_ENV" value in your environment. This creates inconsistencies in the project and is strongly advised against. Read more: https://nextjs.org/docs/messages/non-standard-node-env
+
+Failed to compile.
+
+./app/api/webhook/route.ts
+112:15  Error: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+
+./app/lib/api/webhook.ts
+18:13  Error: 'event' is assigned a value but never used.  @typescript-eslint/no-unused-vars
+
+info  - Need to disable some ESLint rules? Learn more here: https://nextjs.org/docs/app/api-reference/config/eslint#disabling-rules
+
+❌ Error en el proceso de despliegue: Command failed: npm run build
+ ⚠ You are using a non-standard "NODE_ENV" value in your environment. This creates inconsistencies in the project and is strongly advised against. Read more: https://nextjs.org/docs/messages/non-standard-node-env
+
+Failed to compile.
+
+./app/api/webhook/route.ts
+112:15  Error: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+
+./app/lib/api/webhook.ts
+18:13  Error: 'event' is assigned a value but never used.  @typescript-eslint/no-unused-vars
+
+info  - Need to disable some ESLint rules? Learn more here: https://nextjs.org/docs/app/api-reference/config/eslint#disabling-rules
+
+[2025-03-11T05:58:31.889Z] Iniciando proceso de despliegue
+🚀 Iniciando proceso de despliegue
+🔄 Iniciando regeneración de páginas estáticas
+🔍 Se regenerarán 3 páginas estáticas
+🔄 Regenerando página: /
+💬 Llamando al endpoint de revalidación: http://localhost:3000/api/revalidate?path=%2F&secret=cdb3534beee5c71a1308223b91af25c4d68d750b21bcb99fd7838b78226f9204
+✅ Página regenerada correctamente: /
+🔄 Regenerando página: /news
+💬 Llamando al endpoint de revalidación: http://localhost:3000/api/revalidate?path=%2Fnews&secret=cdb3534beee5c71a1308223b91af25c4d68d750b21bcb99fd7838b78226f9204
+✅ Página regenerada correctamente: /news
+🔄 Regenerando página: /news/articulo-de-prueba
+💬 Llamando al endpoint de revalidación: http://localhost:3000/api/revalidate?path=%2Fnews%2Farticulo-de-prueba&secret=cdb3534beee5c71a1308223b91af25c4d68d750b21bcb99fd7838b78226f9204
+✅ Página regenerada correctamente: /news/articulo-de-prueba
+✅ Proceso de regeneración de páginas completado
+🔨 Iniciando construcción de archivos estáticos...
+🚀 Iniciando: Construcción de la aplicación
+❌ Error en Construcción de la aplicación: Command failed: NODE_ENV=production npm run build
+
+Failed to compile.
+
+./app/api/webhook/route.ts
+114:15  Error: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+
+./app/lib/api/webhook.ts
+18:13  Error: 'event' is assigned a value but never used.  @typescript-eslint/no-unused-vars
+
+info  - Need to disable some ESLint rules? Learn more here: https://nextjs.org/docs/app/api-reference/config/eslint#disabling-rules
+
+📝 Salida: 
+> frontend-demo@0.1.0 build
+> next build
+
+   ▲ Next.js 15.2.1
+   - Environments: .env
+   - Experiments (use with caution):
+     ✓ typedRoutes
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully
+   Linting and checking validity of types ...
+
+⚠️ Error detallado: 
+Failed to compile.
+
+./app/api/webhook/route.ts
+114:15  Error: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+
+./app/lib/api/webhook.ts
+18:13  Error: 'event' is assigned a value but never used.  @typescript-eslint/no-unused-vars
+
+info  - Need to disable some ESLint rules? Learn more here: https://nextjs.org/docs/app/api-reference/config/eslint#disabling-rules
+
+❌ Error en el proceso de despliegue: Command failed: NODE_ENV=production npm run build
+
+Failed to compile.
+
+./app/api/webhook/route.ts
+114:15  Error: Unexpected any. Specify a different type.  @typescript-eslint/no-explicit-any
+
+./app/lib/api/webhook.ts
+18:13  Error: 'event' is assigned a value but never used.  @typescript-eslint/no-unused-vars
+
+info  - Need to disable some ESLint rules? Learn more here: https://nextjs.org/docs/app/api-reference/config/eslint#disabling-rules
+

@@ -1,0 +1,588 @@
+[2025-03-11T04:36:44.347Z] 📥 Webhook recibido
+[2025-03-11T04:36:44.348Z] 💬 URL: http://localhost:3000/api/webhook
+[2025-03-11T04:36:44.348Z] 💬 Método: POST
+[2025-03-11T04:36:44.362Z] ⚠️ No se pudo leer el cuerpo de la solicitud: SyntaxError: Unexpected end of JSON input
+[2025-03-11T04:36:44.363Z] 💬 Headers recibidos: {
+  "accept": "*/*",
+  "host": "localhost:3000",
+  "user-agent": "curl/8.5.0",
+  "x-forwarded-for": "::1",
+  "x-forwarded-host": "localhost:3000",
+  "x-forwarded-port": "3000",
+  "x-forwarded-proto": "http"
+}
+[2025-03-11T04:36:44.364Z] 🔑 Token recibido: ninguno
+[2025-03-11T04:36:44.364Z] ⚠️ Modo desarrollo: permitiendo solicitud sin token
+[2025-03-11T04:36:44.364Z] ⚠️ No se pudo leer el cuerpo de la solicitud (segundo intento): SyntaxError: Unexpected end of JSON input
+[2025-03-11T04:36:44.364Z] ⚠️ Modo desarrollo: continuando sin cuerpo de solicitud
+[2025-03-11T04:36:44.365Z] 🚀 Iniciando script de despliegue en segundo plano
+[2025-03-11T04:36:44.376Z] 📋 Proceso de despliegue iniciado con PID: 52853
+[2025-03-11T04:36:58.785Z] 📥 Webhook recibido
+[2025-03-11T04:36:58.786Z] 💬 URL: http://localhost:3000/api/webhook
+[2025-03-11T04:36:58.786Z] 💬 Método: POST
+[2025-03-11T04:36:58.797Z] 📦 Datos recibidos: {
+  "event": "entry.create",
+  "model": "article",
+  "entry": {
+    "id": 1,
+    "title": "Artículo de prueba"
+  }
+}
+[2025-03-11T04:36:58.798Z] 💬 Headers recibidos: {
+  "accept": "*/*",
+  "content-length": "89",
+  "content-type": "application/json",
+  "host": "localhost:3000",
+  "user-agent": "curl/8.5.0",
+  "x-forwarded-for": "::1",
+  "x-forwarded-host": "localhost:3000",
+  "x-forwarded-port": "3000",
+  "x-forwarded-proto": "http"
+}
+[2025-03-11T04:36:58.798Z] 🔑 Token recibido: ninguno
+[2025-03-11T04:36:58.798Z] ⚠️ Modo desarrollo: permitiendo solicitud sin token
+[2025-03-11T04:36:58.799Z] ✅ Modo desarrollo: ejecutando despliegue independientemente del evento
+[2025-03-11T04:36:58.799Z] 🚀 Iniciando script de despliegue en segundo plano
+[2025-03-11T04:36:58.811Z] 📋 Proceso de despliegue iniciado con PID: 52919
+[2025-03-11T04:38:00.505Z] 📥 Webhook recibido
+[2025-03-11T04:38:00.506Z] 💬 URL: https://localhost:3000/api/webhook
+[2025-03-11T04:38:00.506Z] 💬 Método: POST
+[2025-03-11T04:38:00.512Z] 📦 Datos recibidos: {
+  "event": "trigger-test",
+  "createdAt": "2025-03-11T04:38:00.156Z"
+}
+[2025-03-11T04:38:00.513Z] 💬 Headers recibidos: {
+  "accept": "*/*",
+  "accept-encoding": "br, gzip, deflate",
+  "accept-language": "*",
+  "content-length": "63",
+  "content-type": "application/json",
+  "host": "5384-186-29-180-30.ngrok-free.app",
+  "sec-fetch-mode": "cors",
+  "user-agent": "undici",
+  "x-forwarded-for": "186.29.180.30",
+  "x-forwarded-host": "5384-186-29-180-30.ngrok-free.app",
+  "x-forwarded-port": "3000",
+  "x-forwarded-proto": "https",
+  "x-strapi-event": "trigger-test",
+  "x-webhook-token": "7c6de81af8b3356cb10066e33ee99e5153e3275957c2eb46ee0d54318583e050"
+}
+[2025-03-11T04:38:00.513Z] 🔑 Token recibido: 7c6de81af8b3356cb10066e33ee99e5153e3275957c2eb46ee0d54318583e050
+[2025-03-11T04:38:00.513Z] ✅ Modo desarrollo: ejecutando despliegue independientemente del evento
+[2025-03-11T04:38:00.513Z] 🚀 Iniciando script de despliegue en segundo plano
+[2025-03-11T04:38:00.536Z] 📋 Proceso de despliegue iniciado con PID: 53080
+[2025-03-11T04:42:42.494Z] 📥 Webhook recibido
+[2025-03-11T04:42:42.496Z] 💬 URL: http://localhost:3000/api/webhook
+[2025-03-11T04:42:42.496Z] 💬 Método: POST
+[2025-03-11T04:42:42.528Z] 📦 Datos recibidos: {
+  "event": "entry.create",
+  "model": "article",
+  "entry": {
+    "id": 1,
+    "title": "Artículo de prueba"
+  }
+}
+[2025-03-11T04:42:42.529Z] 💬 Headers recibidos: {
+  "accept": "*/*",
+  "content-length": "89",
+  "content-type": "application/json",
+  "host": "localhost:3000",
+  "user-agent": "curl/8.5.0",
+  "x-forwarded-for": "::1",
+  "x-forwarded-host": "localhost:3000",
+  "x-forwarded-port": "3000",
+  "x-forwarded-proto": "http"
+}
+[2025-03-11T04:42:42.530Z] 🔑 Token recibido: ninguno
+[2025-03-11T04:42:42.530Z] ⚠️ Modo desarrollo: permitiendo solicitud sin token
+[2025-03-11T04:42:42.531Z] ✅ Modo desarrollo: ejecutando despliegue independientemente del evento
+[2025-03-11T04:42:42.531Z] 🚀 Iniciando script de despliegue en segundo plano
+[2025-03-11T04:42:42.553Z] 📋 Proceso de despliegue iniciado con PID: 53864
+[2025-03-11T04:46:11.813Z] 📥 Webhook recibido
+[2025-03-11T04:46:11.814Z] 💬 URL: http://localhost:3000/api/webhook
+[2025-03-11T04:46:11.814Z] 💬 Método: POST
+[2025-03-11T04:46:11.848Z] 📦 Datos recibidos: {
+  "event": "entry.create",
+  "model": "article",
+  "entry": {
+    "id": 1,
+    "title": "Artículo de prueba"
+  }
+}
+[2025-03-11T04:46:11.849Z] 💬 Headers recibidos: {
+  "accept": "*/*",
+  "content-length": "89",
+  "content-type": "application/json",
+  "host": "localhost:3000",
+  "user-agent": "curl/8.5.0",
+  "x-forwarded-for": "::1",
+  "x-forwarded-host": "localhost:3000",
+  "x-forwarded-port": "3000",
+  "x-forwarded-proto": "http"
+}
+[2025-03-11T04:46:11.854Z] 🔑 Token recibido: ninguno
+[2025-03-11T04:46:11.854Z] ⚠️ Modo desarrollo: permitiendo solicitud sin token
+[2025-03-11T04:46:11.855Z] ✅ Modo desarrollo: ejecutando despliegue independientemente del evento
+[2025-03-11T04:46:11.855Z] 🚀 Iniciando script de despliegue en segundo plano
+[2025-03-11T04:46:11.873Z] 📋 Proceso de despliegue iniciado con PID: 54698
+[2025-03-11T04:57:04.491Z] 📥 Webhook recibido
+[2025-03-11T04:57:04.492Z] 💬 URL: https://localhost:3000/api/webhook
+[2025-03-11T04:57:04.492Z] 💬 Método: POST
+[2025-03-11T04:57:04.513Z] 📦 Datos recibidos: {
+  "event": "entry.create",
+  "createdAt": "2025-03-11T04:57:02.773Z",
+  "model": "article",
+  "uid": "api::article.article",
+  "entry": {
+    "id": 64,
+    "documentId": "cv44pn23cqqmolxr8lntkpho",
+    "title": "Nueva Noticia",
+    "description": "Una nueva noticia",
+    "slug": "nueva-noticia",
+    "createdAt": "2025-03-11T04:57:02.681Z",
+    "updatedAt": "2025-03-11T04:57:02.681Z",
+    "publishedAt": null,
+    "cover": {
+      "id": 9,
+      "documentId": "aed3kahrq5d58lb8udakjnv3",
+      "name": "what-s-inside-a-black-hole",
+      "alternativeText": "An image uploaded to Strapi called what-s-inside-a-black-hole",
+      "caption": "what-s-inside-a-black-hole",
+      "width": 800,
+      "height": 466,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_what-s-inside-a-black-hole",
+          "hash": "thumbnail_what_s_inside_a_black_hole_e2fe1349ad",
+          "ext": ".jpeg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 245,
+          "height": 143,
+          "size": 1.55,
+          "sizeInBytes": 1549,
+          "url": "/uploads/thumbnail_what_s_inside_a_black_hole_e2fe1349ad.jpeg"
+        },
+        "medium": {
+          "name": "medium_what-s-inside-a-black-hole",
+          "hash": "medium_what_s_inside_a_black_hole_e2fe1349ad",
+          "ext": ".jpeg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 750,
+          "height": 437,
+          "size": 6.94,
+          "sizeInBytes": 6935,
+          "url": "/uploads/medium_what_s_inside_a_black_hole_e2fe1349ad.jpeg"
+        },
+        "small": {
+          "name": "small_what-s-inside-a-black-hole",
+          "hash": "small_what_s_inside_a_black_hole_e2fe1349ad",
+          "ext": ".jpeg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 500,
+          "height": 291,
+          "size": 3.89,
+          "sizeInBytes": 3889,
+          "url": "/uploads/small_what_s_inside_a_black_hole_e2fe1349ad.jpeg"
+        }
+      },
+      "hash": "what_s_inside_a_black_hole_e2fe1349ad",
+      "ext": ".jpeg",
+      "mime": "image/jpeg",
+      "size": 7.5,
+      "url": "/uploads/what_s_inside_a_black_hole_e2fe1349ad.jpeg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2025-02-28T14:26:45.999Z",
+      "updatedAt": "2025-03-11T04:56:55.604Z",
+      "publishedAt": "2025-02-28T14:26:45.999Z"
+    },
+    "author": {
+      "id": 1,
+      "documentId": "x6ixl74dzz8sg4nhz8sp1rp0",
+      "name": "David Doe",
+      "email": "daviddoe@strapi.io",
+      "createdAt": "2025-02-28T14:26:39.298Z",
+      "updatedAt": "2025-02-28T14:26:39.298Z",
+      "publishedAt": "2025-02-28T14:26:39.292Z"
+    },
+    "category": {
+      "id": 4,
+      "documentId": "zziwpjxkr3uoblfugk0eau9a",
+      "name": "nature",
+      "slug": "nature",
+      "description": null,
+      "createdAt": "2025-02-28T14:26:38.493Z",
+      "updatedAt": "2025-02-28T14:26:38.493Z",
+      "publishedAt": "2025-02-28T14:26:38.491Z"
+    },
+    "blocks": []
+  }
+}
+[2025-03-11T04:57:04.515Z] 💬 Headers recibidos: {
+  "accept": "*/*",
+  "accept-encoding": "br, gzip, deflate",
+  "accept-language": "*",
+  "content-length": "2236",
+  "content-type": "application/json",
+  "host": "5384-186-29-180-30.ngrok-free.app",
+  "sec-fetch-mode": "cors",
+  "user-agent": "undici",
+  "x-forwarded-for": "186.29.180.30",
+  "x-forwarded-host": "5384-186-29-180-30.ngrok-free.app",
+  "x-forwarded-port": "3000",
+  "x-forwarded-proto": "https",
+  "x-strapi-event": "entry.create",
+  "x-webhook-token": "7c6de81af8b3356cb10066e33ee99e5153e3275957c2eb46ee0d54318583e050"
+}
+[2025-03-11T04:57:04.515Z] 🔑 Token recibido: 7c6de81af8b3356cb10066e33ee99e5153e3275957c2eb46ee0d54318583e050
+[2025-03-11T04:57:04.515Z] ✅ Modo desarrollo: ejecutando despliegue independientemente del evento
+[2025-03-11T04:57:04.516Z] 🚀 Iniciando script de despliegue en segundo plano
+[2025-03-11T04:57:04.548Z] 📋 Proceso de despliegue iniciado con PID: 56243
+[2025-03-11T05:18:56.297Z] 📥 Webhook recibido
+[2025-03-11T05:18:56.297Z] 💬 URL: http://localhost:3000/api/webhook
+[2025-03-11T05:18:56.298Z] 💬 Método: POST
+[2025-03-11T05:18:56.312Z] 📦 Datos recibidos: {
+  "event": "entry.create",
+  "model": "article",
+  "entry": {
+    "id": 1,
+    "title": "Artículo de prueba"
+  }
+}
+[2025-03-11T05:18:56.313Z] 💬 Headers recibidos: {
+  "accept": "*/*",
+  "content-length": "89",
+  "content-type": "application/json",
+  "host": "localhost:3000",
+  "user-agent": "curl/8.5.0",
+  "x-forwarded-for": "::1",
+  "x-forwarded-host": "localhost:3000",
+  "x-forwarded-port": "3000",
+  "x-forwarded-proto": "http"
+}
+[2025-03-11T05:18:56.313Z] 🔑 Token recibido: ninguno
+[2025-03-11T05:18:56.313Z] ⚠️ Modo desarrollo: permitiendo solicitud sin token
+[2025-03-11T05:18:56.313Z] ✅ Modo desarrollo: ejecutando despliegue independientemente del evento
+[2025-03-11T05:18:56.314Z] 🚀 Iniciando script de despliegue en segundo plano
+[2025-03-11T05:18:56.326Z] 📋 Proceso de despliegue iniciado con PID: 60042
+[2025-03-11T05:20:19.660Z] 📥 Webhook recibido
+[2025-03-11T05:20:19.660Z] 💬 URL: http://localhost:3000/api/webhook
+[2025-03-11T05:20:19.660Z] 💬 Método: POST
+[2025-03-11T05:20:19.666Z] 📦 Datos recibidos: {
+  "event": "entry.create",
+  "model": "article",
+  "entry": {
+    "id": 1,
+    "title": "Artículo de prueba"
+  }
+}
+[2025-03-11T05:20:19.667Z] 💬 Headers recibidos: {
+  "accept": "*/*",
+  "content-length": "89",
+  "content-type": "application/json",
+  "host": "localhost:3000",
+  "user-agent": "curl/8.5.0",
+  "x-forwarded-for": "::1",
+  "x-forwarded-host": "localhost:3000",
+  "x-forwarded-port": "3000",
+  "x-forwarded-proto": "http"
+}
+[2025-03-11T05:20:19.668Z] 🔑 Token recibido: ninguno
+[2025-03-11T05:20:19.668Z] ⚠️ Modo desarrollo: permitiendo solicitud sin token
+[2025-03-11T05:20:19.668Z] ✅ Modo desarrollo: ejecutando despliegue independientemente del evento
+[2025-03-11T05:20:19.668Z] 🚀 Iniciando script de despliegue en segundo plano
+[2025-03-11T05:20:19.689Z] 📋 Proceso de despliegue iniciado con PID: 60224
+[2025-03-11T05:58:31.849Z] 📥 Webhook recibido
+[2025-03-11T05:58:31.850Z] 💬 URL: https://localhost:3000/api/webhook
+[2025-03-11T05:58:31.850Z] 💬 Método: POST
+[2025-03-11T05:58:31.872Z] 📦 Datos recibidos: {
+  "event": "entry.create",
+  "createdAt": "2025-03-11T05:58:21.819Z",
+  "model": "article",
+  "uid": "api::article.article",
+  "entry": {
+    "id": 66,
+    "documentId": "onvwsziwjvjqz3gzdmwg1yr1",
+    "title": "Otra pruebita",
+    "description": "Otra prueba",
+    "slug": "otra-pruebita",
+    "createdAt": "2025-03-11T05:58:21.725Z",
+    "updatedAt": "2025-03-11T05:58:21.725Z",
+    "publishedAt": null,
+    "cover": {
+      "id": 7,
+      "documentId": "umc6765d1kwz7nt8diepmqfz",
+      "name": "a-bug-is-becoming-a-meme-on-the-internet",
+      "alternativeText": "An image uploaded to Strapi called a-bug-is-becoming-a-meme-on-the-internet",
+      "caption": "a-bug-is-becoming-a-meme-on-the-internet",
+      "width": 3628,
+      "height": 2419,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_a-bug-is-becoming-a-meme-on-the-internet",
+          "hash": "thumbnail_a_bug_is_becoming_a_meme_on_the_internet_374641c348",
+          "ext": ".jpeg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 234,
+          "height": 156,
+          "size": 6.74,
+          "sizeInBytes": 6743,
+          "url": "/uploads/thumbnail_a_bug_is_becoming_a_meme_on_the_internet_374641c348.jpeg"
+        },
+        "large": {
+          "name": "large_a-bug-is-becoming-a-meme-on-the-internet",
+          "hash": "large_a_bug_is_becoming_a_meme_on_the_internet_374641c348",
+          "ext": ".jpeg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 1000,
+          "height": 666,
+          "size": 51.05,
+          "sizeInBytes": 51046,
+          "url": "/uploads/large_a_bug_is_becoming_a_meme_on_the_internet_374641c348.jpeg"
+        },
+        "medium": {
+          "name": "medium_a-bug-is-becoming-a-meme-on-the-internet",
+          "hash": "medium_a_bug_is_becoming_a_meme_on_the_internet_374641c348",
+          "ext": ".jpeg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 750,
+          "height": 500,
+          "size": 33.58,
+          "sizeInBytes": 33577,
+          "url": "/uploads/medium_a_bug_is_becoming_a_meme_on_the_internet_374641c348.jpeg"
+        },
+        "small": {
+          "name": "small_a-bug-is-becoming-a-meme-on-the-internet",
+          "hash": "small_a_bug_is_becoming_a_meme_on_the_internet_374641c348",
+          "ext": ".jpeg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 500,
+          "height": 333,
+          "size": 19.27,
+          "sizeInBytes": 19268,
+          "url": "/uploads/small_a_bug_is_becoming_a_meme_on_the_internet_374641c348.jpeg"
+        }
+      },
+      "hash": "a_bug_is_becoming_a_meme_on_the_internet_374641c348",
+      "ext": ".jpeg",
+      "mime": "image/jpeg",
+      "size": 234.02,
+      "url": "/uploads/a_bug_is_becoming_a_meme_on_the_internet_374641c348.jpeg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2025-02-28T14:26:45.037Z",
+      "updatedAt": "2025-02-28T14:26:45.037Z",
+      "publishedAt": "2025-02-28T14:26:45.037Z"
+    },
+    "author": {
+      "id": 1,
+      "documentId": "x6ixl74dzz8sg4nhz8sp1rp0",
+      "name": "David Doe",
+      "email": "daviddoe@strapi.io",
+      "createdAt": "2025-02-28T14:26:39.298Z",
+      "updatedAt": "2025-02-28T14:26:39.298Z",
+      "publishedAt": "2025-02-28T14:26:39.292Z"
+    },
+    "category": {
+      "id": 4,
+      "documentId": "zziwpjxkr3uoblfugk0eau9a",
+      "name": "nature",
+      "slug": "nature",
+      "description": null,
+      "createdAt": "2025-02-28T14:26:38.493Z",
+      "updatedAt": "2025-02-28T14:26:38.493Z",
+      "publishedAt": "2025-02-28T14:26:38.491Z"
+    },
+    "blocks": []
+  }
+}
+[2025-03-11T05:58:31.873Z] 💬 Headers recibidos: {
+  "accept": "*/*",
+  "accept-encoding": "br, gzip, deflate",
+  "accept-language": "*",
+  "content-length": "2753",
+  "content-type": "application/json",
+  "host": "5384-186-29-180-30.ngrok-free.app",
+  "sec-fetch-mode": "cors",
+  "user-agent": "undici",
+  "x-forwarded-for": "186.29.180.30",
+  "x-forwarded-host": "5384-186-29-180-30.ngrok-free.app",
+  "x-forwarded-port": "3000",
+  "x-forwarded-proto": "https",
+  "x-strapi-event": "entry.create",
+  "x-webhook-token": "7c6de81af8b3356cb10066e33ee99e5153e3275957c2eb46ee0d54318583e050"
+}
+[2025-03-11T05:58:31.873Z] 🔑 Token recibido: 7c6de81af8b3356cb10066e33ee99e5153e3275957c2eb46ee0d54318583e050
+[2025-03-11T05:58:31.873Z] ✅ Modo desarrollo: ejecutando despliegue independientemente del evento
+[2025-03-11T05:58:31.874Z] 🚀 Iniciando script de despliegue en segundo plano
+[2025-03-11T05:58:31.890Z] 📋 Proceso de despliegue iniciado con PID: 68896
+[2025-03-11T20:09:49.326Z] 📥 Webhook recibido
+[2025-03-11T20:09:49.327Z] 💬 URL: https://localhost:3000/api/webhook
+[2025-03-11T20:09:49.327Z] 💬 Método: POST
+[2025-03-11T20:09:49.355Z] 📦 Datos recibidos: {
+  "event": "entry.create",
+  "model": "article",
+  "entry": {
+    "id": 999,
+    "title": "Artículo de prueba para revalidación",
+    "slug": "articulo-prueba-revalidacion",
+    "content": "Este es un artículo de prueba para verificar la revalidación",
+    "publishedAt": "2025-03-11T20:09:46.313Z"
+  },
+  "secret": "cdb3534beee5c71a1308223b91af25c4d68d750b21bcb99fd7838b78226f9204"
+}
+[2025-03-11T20:09:49.356Z] 💬 Headers recibidos: {
+  "accept": "*/*",
+  "accept-encoding": "gzip, deflate, br",
+  "content-length": "340",
+  "content-type": "application/json",
+  "host": "f3e2-186-29-180-30.ngrok-free.app",
+  "user-agent": "node-fetch",
+  "x-forwarded-for": "186.29.180.30",
+  "x-forwarded-host": "f3e2-186-29-180-30.ngrok-free.app",
+  "x-forwarded-port": "3000",
+  "x-forwarded-proto": "https"
+}
+[2025-03-11T20:09:49.357Z] 🔑 Token recibido: ninguno
+[2025-03-11T20:09:49.358Z] ⚠️ Modo desarrollo: permitiendo solicitud sin token
+[2025-03-11T20:09:49.358Z] 📄 Slug del artículo: articulo-prueba-revalidacion
+[2025-03-11T20:09:49.358Z] ✅ Modo desarrollo: revalidando todas las páginas
+[2025-03-12T16:02:12.965Z] 📥 Webhook recibido
+[2025-03-12T16:02:12.966Z] 💬 URL: http://localhost:3000/api/webhook
+[2025-03-12T16:02:12.966Z] 💬 Método: POST
+[2025-03-12T16:02:12.983Z] 📦 Datos recibidos: {
+  "event": "entry.create",
+  "createdAt": "2025-03-12T16:02:12.908Z",
+  "model": "article",
+  "uid": "api::article.article",
+  "entry": {
+    "id": 68,
+    "documentId": "plpnuw6big6a0y1jltbx9ntg",
+    "title": "prueba de estaticos",
+    "description": "prueba de estaticos",
+    "slug": "prueba-estaticos",
+    "createdAt": "2025-03-12T16:02:12.801Z",
+    "updatedAt": "2025-03-12T16:02:12.801Z",
+    "publishedAt": null,
+    "cover": {
+      "id": 8,
+      "documentId": "rkywboxxur6tbzh01ez1ih2a",
+      "name": "beautiful-picture",
+      "alternativeText": "An image uploaded to Strapi called beautiful-picture",
+      "caption": "beautiful-picture",
+      "width": 3824,
+      "height": 2548,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_beautiful-picture",
+          "hash": "thumbnail_beautiful_picture_63e59b3a49",
+          "ext": ".jpeg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 234,
+          "height": 156,
+          "size": 6.43,
+          "sizeInBytes": 6427,
+          "url": "/uploads/thumbnail_beautiful_picture_63e59b3a49.jpeg"
+        },
+        "medium": {
+          "name": "medium_beautiful-picture",
+          "hash": "medium_beautiful_picture_63e59b3a49",
+          "ext": ".jpeg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 750,
+          "height": 500,
+          "size": 47.89,
+          "sizeInBytes": 47888,
+          "url": "/uploads/medium_beautiful_picture_63e59b3a49.jpeg"
+        },
+        "small": {
+          "name": "small_beautiful-picture",
+          "hash": "small_beautiful_picture_63e59b3a49",
+          "ext": ".jpeg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 500,
+          "height": 333,
+          "size": 23.38,
+          "sizeInBytes": 23380,
+          "url": "/uploads/small_beautiful_picture_63e59b3a49.jpeg"
+        },
+        "large": {
+          "name": "large_beautiful-picture",
+          "hash": "large_beautiful_picture_63e59b3a49",
+          "ext": ".jpeg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 1000,
+          "height": 666,
+          "size": 83.42,
+          "sizeInBytes": 83416,
+          "url": "/uploads/large_beautiful_picture_63e59b3a49.jpeg"
+        }
+      },
+      "hash": "beautiful_picture_63e59b3a49",
+      "ext": ".jpeg",
+      "mime": "image/jpeg",
+      "size": 710.28,
+      "url": "/uploads/beautiful_picture_63e59b3a49.jpeg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2025-02-28T14:26:45.853Z",
+      "updatedAt": "2025-02-28T14:26:45.853Z",
+      "publishedAt": "2025-02-28T14:26:45.854Z"
+    },
+    "author": {
+      "id": 1,
+      "documentId": "x6ixl74dzz8sg4nhz8sp1rp0",
+      "name": "David Doe",
+      "email": "daviddoe@strapi.io",
+      "createdAt": "2025-02-28T14:26:39.298Z",
+      "updatedAt": "2025-02-28T14:26:39.298Z",
+      "publishedAt": "2025-02-28T14:26:39.292Z"
+    },
+    "category": {
+      "id": 1,
+      "documentId": "c48quxa2ovthuuc0g5f4xm20",
+      "name": "news",
+      "slug": "news",
+      "description": null,
+      "createdAt": "2025-02-28T14:26:38.461Z",
+      "updatedAt": "2025-02-28T14:26:38.461Z",
+      "publishedAt": "2025-02-28T14:26:38.447Z"
+    },
+    "blocks": []
+  }
+}
+[2025-03-12T16:02:12.984Z] 💬 Headers recibidos: {
+  "accept": "*/*",
+  "accept-encoding": "gzip, deflate",
+  "accept-language": "*",
+  "connection": "keep-alive",
+  "content-length": "2375",
+  "content-type": "application/json",
+  "host": "localhost:3000",
+  "sec-fetch-mode": "cors",
+  "user-agent": "undici",
+  "x-forwarded-for": "::ffff:127.0.0.1",
+  "x-forwarded-host": "localhost:3000",
+  "x-forwarded-port": "3000",
+  "x-forwarded-proto": "http",
+  "x-strapi-event": "entry.create",
+  "x-webhook-token": "7c6de81af8b3356cb10066e33ee99e5153e3275957c2eb46ee0d54318583e050"
+}
+[2025-03-12T16:02:12.984Z] 🔑 Token recibido: 7c6de81af8b3356cb10066e33ee99e5153e3275957c2eb46ee0d54318583e050
+[2025-03-12T16:02:12.984Z] 📄 Slug del artículo: prueba-estaticos
+[2025-03-12T16:02:12.984Z] ✅ Evento válido para revalidación
+[2025-03-12T16:02:12.987Z] ✅ Revalidada página específica: /news/prueba-estaticos

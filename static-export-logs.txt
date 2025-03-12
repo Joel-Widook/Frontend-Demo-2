@@ -1,0 +1,71 @@
+[2025-03-11T20:46:03.812Z] 🚀 Iniciando generación de archivos estáticos para S3...
+[2025-03-11T20:46:03.823Z] 🗑️ Limpiando directorio de salida existente...
+[2025-03-11T20:46:03.866Z] 📁 Creado directorio: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out
+[2025-03-11T20:46:03.866Z] 📦 Copiando archivos estáticos...
+[2025-03-11T20:46:03.867Z] 📁 Creado directorio: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static
+[2025-03-11T20:46:03.867Z] 📁 Creado directorio: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/K8thpAF0FKU_JlF6khvqD
+[2025-03-11T20:46:03.868Z] 📄 Copiado: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/.next/static/K8thpAF0FKU_JlF6khvqD/_buildManifest.js -> /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/K8thpAF0FKU_JlF6khvqD/_buildManifest.js
+[2025-03-11T20:46:03.869Z] 📄 Copiado: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/.next/static/K8thpAF0FKU_JlF6khvqD/_ssgManifest.js -> /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/K8thpAF0FKU_JlF6khvqD/_ssgManifest.js
+[2025-03-11T20:46:03.870Z] 📁 Creado directorio: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/chunks
+[2025-03-11T20:46:03.871Z] 📄 Copiado: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/.next/static/chunks/4bd1b696-6e2a7fb160913143.js -> /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/chunks/4bd1b696-6e2a7fb160913143.js
+[2025-03-11T20:46:03.872Z] 📄 Copiado: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/.next/static/chunks/684-8bae69fae1c169dd.js -> /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/chunks/684-8bae69fae1c169dd.js
+[2025-03-11T20:46:03.873Z] 📄 Copiado: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/.next/static/chunks/992-bbdaeac5140ec42e.js -> /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/chunks/992-bbdaeac5140ec42e.js
+[2025-03-11T20:46:03.873Z] 📁 Creado directorio: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/chunks/app
+[2025-03-11T20:46:03.874Z] 📁 Creado directorio: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/chunks/app/_not-found
+[2025-03-11T20:46:03.875Z] 📄 Copiado: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/.next/static/chunks/app/_not-found/page-f08302ee705a96b1.js -> /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/chunks/app/_not-found/page-f08302ee705a96b1.js
+[2025-03-11T20:46:03.875Z] 📁 Creado directorio: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/chunks/app/api
+[2025-03-11T20:46:03.876Z] 📁 Creado directorio: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/chunks/app/api/revalidate
+[2025-03-11T20:46:03.876Z] 📄 Copiado: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/.next/static/chunks/app/api/revalidate/route-b2d9ab69fcacd504.js -> /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/chunks/app/api/revalidate/route-b2d9ab69fcacd504.js
+[2025-03-11T20:46:03.877Z] 📁 Creado directorio: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/chunks/app/api/webhook
+[2025-03-11T20:46:03.877Z] 📄 Copiado: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/.next/static/chunks/app/api/webhook/route-08201e1937d7453c.js -> /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/chunks/app/api/webhook/route-08201e1937d7453c.js
+[2025-03-11T20:46:03.878Z] 📄 Copiado: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/.next/static/chunks/app/layout-75f6eb207d83e11c.js -> /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/chunks/app/layout-75f6eb207d83e11c.js
+[2025-03-11T20:46:03.879Z] 📁 Creado directorio: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/chunks/app/news
+[2025-03-11T20:46:03.879Z] 📁 Creado directorio: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/chunks/app/news/[slug]
+[2025-03-11T20:46:03.880Z] 📄 Copiado: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/.next/static/chunks/app/news/[slug]/page-4c62c5ac4086ec19.js -> /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/chunks/app/news/[slug]/page-4c62c5ac4086ec19.js
+[2025-03-11T20:46:03.881Z] 📄 Copiado: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/.next/static/chunks/app/page-5491bd9dc2676b5f.js -> /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/chunks/app/page-5491bd9dc2676b5f.js
+[2025-03-11T20:46:03.881Z] 📄 Copiado: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/.next/static/chunks/framework-859199dea06580b0.js -> /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/chunks/framework-859199dea06580b0.js
+[2025-03-11T20:46:03.882Z] 📄 Copiado: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/.next/static/chunks/main-6fe89b12089f0675.js -> /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/chunks/main-6fe89b12089f0675.js
+[2025-03-11T20:46:03.883Z] 📄 Copiado: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/.next/static/chunks/main-app-1825340029108b0d.js -> /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/chunks/main-app-1825340029108b0d.js
+[2025-03-11T20:46:03.883Z] 📁 Creado directorio: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/chunks/pages
+[2025-03-11T20:46:03.884Z] 📄 Copiado: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/.next/static/chunks/pages/_app-da15c11dea942c36.js -> /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/chunks/pages/_app-da15c11dea942c36.js
+[2025-03-11T20:46:03.884Z] 📄 Copiado: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/.next/static/chunks/pages/_error-cc3f077a18ea1793.js -> /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/chunks/pages/_error-cc3f077a18ea1793.js
+[2025-03-11T20:46:03.885Z] 📄 Copiado: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/.next/static/chunks/polyfills-42372ed130431b0a.js -> /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/chunks/polyfills-42372ed130431b0a.js
+[2025-03-11T20:46:03.886Z] 📄 Copiado: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/.next/static/chunks/webpack-05cc406d6a87b1a9.js -> /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/chunks/webpack-05cc406d6a87b1a9.js
+[2025-03-11T20:46:03.886Z] 📁 Creado directorio: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/css
+[2025-03-11T20:46:03.886Z] 📄 Copiado: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/.next/static/css/144fac3dc6a8ef46.css -> /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/css/144fac3dc6a8ef46.css
+[2025-03-11T20:46:03.887Z] 📁 Creado directorio: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/media
+[2025-03-11T20:46:03.888Z] 📄 Copiado: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/.next/static/media/569ce4b8f30dc480-s.p.woff2 -> /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/media/569ce4b8f30dc480-s.p.woff2
+[2025-03-11T20:46:03.888Z] 📄 Copiado: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/.next/static/media/747892c23ea88013-s.woff2 -> /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/media/747892c23ea88013-s.woff2
+[2025-03-11T20:46:03.889Z] 📄 Copiado: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/.next/static/media/93f479601ee12b01-s.p.woff2 -> /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/media/93f479601ee12b01-s.p.woff2
+[2025-03-11T20:46:03.889Z] 📄 Copiado: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/.next/static/media/ba015fad6dcf6784-s.woff2 -> /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/_next/static/media/ba015fad6dcf6784-s.woff2
+[2025-03-11T20:46:03.890Z] 📄 Generando archivos HTML para las rutas estáticas...
+[2025-03-11T20:46:03.890Z] 📝 Creado archivo index.html
+[2025-03-11T20:46:03.890Z] 📁 Creado directorio: /home/joelesdar/Documentos/Dev/Widook/test-arquitectura/frontend-demo/out/news
+[2025-03-11T20:46:03.892Z] ✅ Archivos estáticos generados exitosamente en la carpeta out
+[2025-03-11T20:46:03.892Z] 📊 Puedes usar el script upload-to-s3.js para subir estos archivos a S3
+[2025-03-11T20:53:20.584Z] 🚀 Iniciando exportación de archivos estáticos...
+[2025-03-11T20:53:20.604Z] 📝 Creado archivo de configuración temporal para exportación
+[2025-03-11T20:53:20.605Z] 🏗️ Ejecutando exportación estática...
+[2025-03-11T20:53:56.643Z] ⚠️ La exportación completó con advertencias: Command failed: npx next build && npx next export -o out
+[2025-03-11T20:53:56.643Z] Esto es normal si hay rutas de API en el proyecto
+[2025-03-11T20:53:56.644Z] 🗑️ Eliminado archivo de configuración temporal
+[2025-03-11T20:53:56.645Z] 📊 Archivos generados en la carpeta out: 3
+[2025-03-11T20:53:56.646Z] 🌐 Archivos HTML generados: 1
+[2025-03-11T20:53:56.646Z] 📊 Puedes usar el script upload-to-s3.js para subir estos archivos a S3
+[2025-03-12T16:55:16.019Z] 🚀 Iniciando exportación de archivos estáticos...
+[2025-03-12T16:55:16.030Z] 📝 Creado archivo de configuración temporal para exportación
+[2025-03-12T16:55:16.031Z] 🏗️ Ejecutando exportación estática...
+[2025-03-12T16:55:56.166Z] ⚠️ La exportación completó con advertencias: Command failed: npx next build && npx next export -o out
+[2025-03-12T16:55:56.167Z] Esto es normal si hay rutas de API en el proyecto
+[2025-03-12T16:55:56.168Z] 🗑️ Eliminado archivo de configuración temporal
+[2025-03-12T16:55:56.169Z] 📊 Archivos generados en la carpeta out: 19
+[2025-03-12T16:55:56.170Z] ⚠️ No se encontraron archivos HTML en la carpeta out
+[2025-03-12T16:55:56.170Z] 📊 Puedes usar el script upload-to-s3.js para subir estos archivos a S3
+[2025-03-12T16:57:13.011Z] 🚀 Iniciando exportación de archivos estáticos...
+[2025-03-12T16:57:13.029Z] 📝 Creado archivo de configuración temporal para exportación
+[2025-03-12T16:57:13.030Z] 🏗️ Ejecutando exportación estática...
+[2025-03-12T16:57:51.862Z] ✅ Exportación completada exitosamente
+[2025-03-12T16:57:51.863Z] 🗑️ Eliminado archivo de configuración temporal
+[2025-03-12T16:57:51.865Z] 📊 Archivos generados en la carpeta out: 19
+[2025-03-12T16:57:51.866Z] ⚠️ No se encontraron archivos HTML en la carpeta out
+[2025-03-12T16:57:51.867Z] 📊 Puedes usar el script upload-to-s3.js para subir estos archivos a S3
